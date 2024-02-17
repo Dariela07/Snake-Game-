@@ -1,3 +1,4 @@
+# Calculate the score of the game player and save it.
 from turtle import Turtle
 from food import Food
 ALIGNMENT = 'center'
